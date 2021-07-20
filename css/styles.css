@@ -10631,3 +10631,21 @@ section.resume-section .resume-section-content {
 .modal.modal-static .modal-dialog {
   transform: scale(1.02);
 }
+
+/*Progress bar*/
+.progress{
+  height: 10px;
+  background: rgba(0, 0, 0, 0);
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 17rem;
+}
+.progress_highlight{
+  transition:  width 0.15s linear;
+  /* background: rgb(242, 15, 30); */
+  background: rgba(26, 188, 156, 0.9);
+  height: 100%;
+  width: 0%;
+}
