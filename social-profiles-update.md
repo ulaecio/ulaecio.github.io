@@ -1,4 +1,4 @@
-# Publicação de perfis — Ulaécio Carmo
+# Publicação de perfis — Ulaecio Carmo
 
 ## LinkedIn pessoal
 
@@ -45,7 +45,7 @@ Founder @ Ulasoftware · Software Architect & Full-stack Developer · SaaS, Java
 
 ### README de perfil
 
-# Ulaécio Carmo
+# Ulaecio Carmo
 
 Arquiteto de software e desenvolvedor full stack. Na Ulasoftware, projeto e evoluo plataformas SaaS, sistemas de gestão, produtos educacionais e integrações para empresas e instituições.
 
